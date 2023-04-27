@@ -1,0 +1,33 @@
+*{margin: 0;    padding: 0;    box-sizing: border-box;}
+body{background-color:url(img/banner.jpeg);}
+h1{font-size: 28px;color: black;}
+header{width: 100;height: 210px;background-color:url(img/banner.jpeg);}
+.foto1{
+  padding: 10px;margin: 10px; float: left; width: 150px;background-color: rgb(246, 250, 247);
+}
+.nav a{
+    text-decoration: none;color: beige;font-size: 14px;
+}
+nav li{
+display: inline-block;width: 10%;padding: 5px 10px;background-color: rgb(243, 247, 244);
+text-align: center;color: rgb(233, 214, 214);float: right;
+
+}
+nav li:hover{
+    background-color: rgb(146, 142, 142); color: #000;
+}
+.banner1{	
+	width: 1350px;
+	height: 339px;
+}
+article{
+    float: left;
+}
+h2.center{
+  text-align: center ;	
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
